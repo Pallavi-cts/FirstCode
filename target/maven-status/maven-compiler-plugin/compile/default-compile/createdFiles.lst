@@ -1,0 +1,4 @@
+CaseTrack\App.class
+resources\Base.class
+pageObjects\LoginPage.class
+pageObjects\CredentialsPage.class
